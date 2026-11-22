@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/noelujan/noelujan/master/assets/Noelia%20Luján%20Banner.png">
 
 <h2> Hey there! I'm Noelia.</h2>
 <img 
